@@ -1,1 +1,3 @@
-# corpus_23february_congratulations
+# Корпус позравлений с 23 февраля
+
+Тексты 903 поздравлений в стихах с сайта "Поздравок": http://pozdravok.ru/pozdravleniya/prazdniki/den-zashchitnikov-otechestva/
